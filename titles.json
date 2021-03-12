@@ -1,8 +1,13 @@
 [
   {
-    "id": "main_title",
+    "id": "main_title_1",
     "ar": "العدد السابع عشر",
     "en": "RoundTrip's 17th Issue"
+  },
+  {
+    "id": "main_title_2",
+    "ar": "شباط 2021",
+    "en": "February 2021"
   },
   { "id": "v1_section_title", "ar": "آخر فيديو", "en": "Latest Video" },
   { "id": "v2_section_title", "ar": "فيديو بارز", "en": "Featured Video" },
